@@ -62,14 +62,13 @@ Full cleaning process was done in MySQL. Key issues found and resolved:
 Three-page Power BI dashboard:
 
 1. **Overview** — headline KPIs and top single-variable drivers
-   ![Overview](screenshots/overview.png)
+   
 
 2. **Compounding Risk Factors** — matrix views showing how Job Level, Marital Status, Remote Work, and Work-Life Balance interact
-   ![Compounding Risk Factors](screenshots/compounding-risk-factors.png)
+   
 
 3. **What Doesn't Drive Attrition** — income and other weak/non-drivers, included for analytical transparency
-   ![What Doesn't Drive Attrition](screenshots/what-doesnt-drive-attrition.png)
-
+  
 The `.pbix` file is available in the `dashboard` folder.
 
 ## Repository Structure
