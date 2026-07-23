@@ -62,7 +62,7 @@ Full cleaning process was done in MySQL. Key issues found and resolved:
 Three-page Power BI dashboard:
 
 1. **Overview** — headline KPIs and top single-variable drivers
-   ![Overview](screenshots/overview.png)
+   ![Overview](screenshots/Overview.png)
 
 2. **Compounding Risk Factors** — matrix views showing how Job Level, Marital Status, Remote Work, and Work-Life Balance interact
    ![Compounding Risk Factors](screenshots/compounding-risk-factors.png)
